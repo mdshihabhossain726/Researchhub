@@ -181,7 +181,16 @@ B.Sc. in CSE, Bangladesh University of Business & Technology (BUBT)
 
 ---
 
+## 🤝 Connect With Me
+
 <div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-mdshihabhossain726-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdshihabhossain726)
+[![Email](https://img.shields.io/badge/Email-mdshihabhossain726%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdshihabhossain726@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Md%20Shihab%20Hossain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdshihabhossain726/)
+[![Website](https://img.shields.io/badge/Website-Visit%20Anytime-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mdshihabhossain726.github.io/)
+
+<br>
 
 Made as a Database Systems Lab project 🎓
 
