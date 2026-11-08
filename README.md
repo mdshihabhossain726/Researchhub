@@ -1,8 +1,6 @@
 <div align="center">
 
-# 📚 ResearchHub
-
-### Research Paper Management System
+<img src="assets/banner.svg" alt="ResearchHub: Research Paper Management System" width="100%">
 
 A relational database project for storing, organizing, searching and managing academic research papers, with a simple desktop interface.
 
@@ -88,6 +86,8 @@ Researchhub/
 ├── 03_views_indexes.sql       # views and indexes
 ├── 04_functions_triggers.sql  # functions, procedure, triggers
 ├── 05_queries_and_tests.sql   # demo queries and constraint tests
+├── assets/
+│   └── banner.svg             # README banner
 ├── .gitignore
 ├── README.md
 └── app/                       # desktop application
